@@ -1,5 +1,5 @@
-# leaflet-maps-with-google-sheets-polygons
-Leaflet Maps with Google Sheets - polygons-version for teaching purposes
+# fina-project
+Leaflet Maps with Google Sheets - final project
 
 ## Live links (replace with your own)
 - Leaflet Map https://drdataviz.github.io/final-project/
